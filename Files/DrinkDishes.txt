@@ -1,0 +1,5 @@
+lucha 8RMB 50
+hongcha 8RMB 50
+chengzhi 12RMB 50
+yumizhi 12RMB 50
+kele 5RMB 50
